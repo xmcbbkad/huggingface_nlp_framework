@@ -1,0 +1,4 @@
+transformers==4.17.0
+datasets==1.18.4
+setuptools-scm==6.4.2
+seqeval==1.2.2
