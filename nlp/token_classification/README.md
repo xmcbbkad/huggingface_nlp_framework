@@ -6,7 +6,6 @@
    <tr>
         <th >任务</th>
         <th>代码入口</th>
-        <th width=60%>pony插件</th>
    </tr>
    <tr>
         <td>训练</td>
